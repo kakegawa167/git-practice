@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-conflict-remote上で更新
+stashへ一時避難した修正
